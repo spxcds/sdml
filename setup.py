@@ -10,10 +10,10 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='smdl',
+    name='sdml',
     version='0.0.1',
     description='A ML & DL lib',
-    url='http://githbu.com/spxcds/sdml',
+    url='http://github.com/spxcds/sdml',
     author='spxcds',
     author_email='spxcds@gmail.com',
     license='MIT',
